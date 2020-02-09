@@ -2,3 +2,4 @@
 - membuat usaha menjadi maju
 - fokus dibidang ui&ux dan developer
 - memperkuat fundamental
+- mempelajari framework
