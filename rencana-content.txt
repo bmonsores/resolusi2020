@@ -3,3 +3,4 @@
 - fokus dibidang ui&ux dan developer
 - memperkuat fundamental
 - mempelajari framework
+- mempelajari database
